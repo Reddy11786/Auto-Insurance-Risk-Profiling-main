@@ -79,7 +79,7 @@ Follow these steps to get the project up and running on your machine:
 - First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/kunal1406/Auto-Insurance-Risk-Profiling.git
+[git clone https://github.com/Reddy11786/Auto-Insurance-Risk-Profiling-main.git]
 ```
 
 **STEP 01: Create a Conda Environment**
@@ -112,8 +112,7 @@ python app.py
 ## Usage
 
 For a visual guide on how the tool works, please watch the following video
-
-https://www.youtube.com/watch?v=D8Uy5b8NTp0
+in making
 
 
 
@@ -121,15 +120,15 @@ https://www.youtube.com/watch?v=D8Uy5b8NTp0
 
 # Yet to be updated
 ```bash
-MLFLOW_TRACKING_URI=https://dagshub.com/kunal1406/Auto-Insurance-Risk-Profiling.mlflow
-MLFLOW_TRACKING_USERNAME=kunal1406
+MLFLOW_TRACKING_URI=https://dagshub.com/reddy1406/Auto-Insurance-Risk-Profiling.mlflow
+MLFLOW_TRACKING_USERNAME=reddy1406
 MLFLOW_TRACKING_PASSWORD=c1f8c1d6722f50e4980aec7e9eba0c1df1353ad6
 ```
 *Set the variables in the environment*
 
 ```bash
-$env:MLFLOW_TRACKING_URI = "https://dagshub.com/kunal1406/Auto-Insurance-Risk-Profiling.mlflow"
-$env:MLFLOW_TRACKING_USERNAME = "kunal1406"
+$env:MLFLOW_TRACKING_URI = "https://dagshub.com/reddy1406/Auto-Insurance-Risk-Profiling.mlflow"
+$env:MLFLOW_TRACKING_USERNAME = "reddy1406"
 $env:MLFLOW_TRACKING_PASSWORD = "c1f8c1d6722f50e4980aec7e9eba0c1df1353ad6"
 ```
 # Policy:
